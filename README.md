@@ -29,5 +29,11 @@ Options and context can be added inside config/filesystem.php
         ]
 ```
 
+To download a file just use this Lumen provider
+
+```php
+ $content = Storage::disk('http')->get('test.csv');
+```
+
 ## Laraval 5.4
 coming....
