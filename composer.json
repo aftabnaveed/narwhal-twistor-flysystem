@@ -1,0 +1,16 @@
+{
+    "name": "narwhal/twistor-flysystem-http",
+    "description": "Laravel/Lumen Service provider for Twistor Flysystem Http adapter",
+    "type": "library",
+    "require": {
+        "twistor/flysystem-http": "^0.2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aftab Naveed",
+            "email": "aftabnaveed@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
