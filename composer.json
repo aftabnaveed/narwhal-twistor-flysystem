@@ -12,5 +12,10 @@
             "email": "aftabnaveed@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Narwhal\\Twistor\\Flysystem\\" : "src/"
+        }
+    },
     "minimum-stability": "dev"
 }
